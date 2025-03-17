@@ -1,8 +1,0 @@
-Proceso Doble_de_un_numero_entero
-	Definir num1, doble Como Entero;
-	Escribir "Introduzca un número: ";
-	Leer num1;
-	doble = num1  *2;
-	Escribir "El doble de su numero es: ", doble;	
-	
-FinProceso

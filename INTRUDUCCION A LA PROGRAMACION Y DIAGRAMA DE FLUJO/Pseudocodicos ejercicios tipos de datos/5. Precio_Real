@@ -1,7 +1,0 @@
-Proceso Precio_Real
-	Definir precio Como Real;
-	precio = 19.99;
-	Escribir "El precio de su producto es: ", precio;
-	
-	
-FinProceso

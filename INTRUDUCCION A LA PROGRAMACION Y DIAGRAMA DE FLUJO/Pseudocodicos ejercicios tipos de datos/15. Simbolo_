@@ -1,6 +1,0 @@
-Proceso Simbolo_
-	Definir simbolo como Cadena;
-	simbolo="#";
-	Escribir "El simbolo es ", simbolo;	
-	
-FinProceso

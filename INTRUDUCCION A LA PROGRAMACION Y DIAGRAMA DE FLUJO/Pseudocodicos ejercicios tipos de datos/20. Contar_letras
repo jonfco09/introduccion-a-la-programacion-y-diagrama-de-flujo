@@ -1,9 +1,0 @@
-Proceso Contar_letras
-	Definir texto como Cadena;
-	Definir cantidadLetras Como Entero;
-	Escribir "Ingrese un texto";
-	Leer texto;
-	cantidadLetras = Longitud(texto);
-	Escribir "Su texto tiene ", cantidadLetras, " caracteres";
-	
-FinProceso

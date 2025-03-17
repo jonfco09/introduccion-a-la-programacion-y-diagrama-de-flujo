@@ -1,6 +1,0 @@
-Proceso Caracter_inicial
-	Definir inicial Como Caracter;
-	inicial="J";
-	Escribir "La inicial de su nombre es: ", inicial;
-	
-FinProceso

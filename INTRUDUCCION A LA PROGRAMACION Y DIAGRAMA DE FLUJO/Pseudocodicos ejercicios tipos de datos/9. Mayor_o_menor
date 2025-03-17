@@ -1,9 +1,0 @@
-Proceso Mayor_o_menor
-	Definir esMayor Como Logico;
-	Definir edad Como Entero;
-	
-	Escribir "Introduzca su edad";
-	Leer edad;
-	esMayor = edad >= 18; 
-	Escribir "¿Es mayor de edad? ", esMayor;	
-FinProceso

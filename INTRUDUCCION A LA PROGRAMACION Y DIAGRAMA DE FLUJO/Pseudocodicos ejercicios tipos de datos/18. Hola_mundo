@@ -1,6 +1,0 @@
-Proceso Hola_mundo
-	Definir hola, mundo como Cadena;
-	hola = "Hola";
-	mundo = "mundo";
-	Escribir hola, " " mundo;
-FinProceso
