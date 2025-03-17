@@ -1,0 +1,12 @@
+Proceso Llueve_o_no
+	Definir llueve Como Logico;
+	Escribir "¿Está lloviendo? (0 para NO, 1 para SI";
+	Leer llueve;
+	
+	Si llueve entonces;
+		Escribir "Debes llevar paraguas";
+	SiNo
+		Escribir "No debes llevar paraguas";
+	FinSi
+	
+FinProceso

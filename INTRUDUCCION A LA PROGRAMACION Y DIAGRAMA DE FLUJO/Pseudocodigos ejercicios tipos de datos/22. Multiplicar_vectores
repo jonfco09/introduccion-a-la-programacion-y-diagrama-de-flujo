@@ -1,0 +1,18 @@
+Proceso Multiplicar_vectores
+	Definir numeros, i, multiplicar Como Entero;
+	Dimension numeros[4];
+	multiplicar = 1;
+	
+	//Ingresar los numeros de los vectores
+		Para i = 0 Hasta 3 Hacer
+		Escribir "Ingrese un numero en la posicion ", i+1, ": ";
+		Leer numeros[i];
+	FinPara
+	
+	//Aqui vamos a multiplicar todos los elementos del vector
+	Para i = 0 Hasta 3 Hacer
+		multiplicar = multiplicar * numeros[i];
+	FinPara
+	Escribir "La multiplicacion de todos los elementos del vector es: ", multiplicar;
+	
+FinProceso

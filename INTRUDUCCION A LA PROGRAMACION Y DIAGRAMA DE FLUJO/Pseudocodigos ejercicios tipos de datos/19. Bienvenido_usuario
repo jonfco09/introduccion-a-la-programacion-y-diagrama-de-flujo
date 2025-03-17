@@ -1,0 +1,6 @@
+Proceso Bienvenido_usuario
+	Definir nombre como Cadena;
+	Escribir "Ingrese su nombre";
+	Leer nombre;
+	Escribir "Bienvenido al sistetema: ",nombre;
+FinProceso

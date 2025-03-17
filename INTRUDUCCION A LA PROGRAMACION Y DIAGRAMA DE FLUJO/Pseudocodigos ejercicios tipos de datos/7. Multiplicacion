@@ -1,0 +1,8 @@
+Proceso Multiplicacion
+	Definir num1, num2, area Como Real;
+	num1 = 3.14;
+	num2 = 2.5;
+	area = num1*num2;
+	Escribir "La multiplicacion de 3.14 por 2.5 es: ", area;
+	
+FinProceso

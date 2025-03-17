@@ -1,0 +1,8 @@
+Proceso Resta
+	Definir num1, num2, diferencia Como Entero;
+	num1 = 100;
+	num2 = 45;
+	diferencia = num1 - num2;
+	
+	Escribir "La resta de ", num1, " y ", num2 " es igual a: ", diferencia;
+FinProceso

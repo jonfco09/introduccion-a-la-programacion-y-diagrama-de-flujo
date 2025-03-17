@@ -1,0 +1,7 @@
+Proceso Peso_en_kilogramos
+	Definir kilos Como Real;
+	Escribir "Introduzca su peso en kilogramos";
+	Leer kilos;
+	Escribir "Su peso es: ", kilos, " Kilogramos";
+	
+FinProceso
