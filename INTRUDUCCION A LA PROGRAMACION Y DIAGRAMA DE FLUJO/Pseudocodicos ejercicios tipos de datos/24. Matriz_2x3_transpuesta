@@ -1,0 +1,31 @@
+Proceso Matriz_2x3_transpuesta
+	Definir matriz, transpuesta, i, j Como Entero;
+	Dimension matriz[2,3];
+	Dimension transpuesta[3,2];
+	
+	//Ingresar valores de la matriz
+	Para i = 0 Hasta 1 Hacer
+		Para j = 0 Hasta 2 Hacer
+			Escribir "Ingrese un numero para la posicion [", i+1, ",", j+1, "]: ";
+			Leer matriz[i,j];
+		FinPara
+	FinPara
+	
+	//Transponer la matriz (Intercambiar filas por columnas y viceversa)
+	Para i = 0 Hasta 1 Hacer
+		Para j = 0 Hasta 2 Hacer
+			transpuesta[j,i] = matriz[i,j];
+		FinPara
+	FinPara
+	
+	//Mostrar matriz transpuesta
+	Escribir "Matriz transpuesta: ";
+	Para i = 0 Hasta 2 Hacer
+		Para j = 0 Hasta 1 Hacer
+			Escribir Sin Saltar transpuesta[i,j], " ";
+		FinPara
+		Escribir " ";
+	FinPara
+	
+	
+FinProceso

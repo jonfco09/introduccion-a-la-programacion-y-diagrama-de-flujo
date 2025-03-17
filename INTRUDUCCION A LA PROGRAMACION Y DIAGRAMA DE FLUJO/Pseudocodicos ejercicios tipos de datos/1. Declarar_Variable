@@ -1,0 +1,7 @@
+Proceso Declarar_Variable
+	Definir edad Como Entero;
+	edad = 25;
+	Escribir "Su edad es: ", edad;
+	
+FinProceso
+	

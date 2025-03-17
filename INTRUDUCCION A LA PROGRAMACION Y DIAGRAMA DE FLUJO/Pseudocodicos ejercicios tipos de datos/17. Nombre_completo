@@ -1,0 +1,5 @@
+Proceso Nombre_completo
+	Definir nombre como cadena;
+	nombre = "Jonathan Francisco";
+	Escribir "Mi nombre es ", nombre;
+FinProceso
